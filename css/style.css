@@ -1,0 +1,9 @@
+.navbar{ border-radius: 0px;}
+
+h1{font-family: 'Caveat', cursive;font-weight: bold;color:purple;}
+
+li.visible-xs:nth-child(2),li.visible-xs:nth-child(3) { border-top: 1px solid #e7e7e7;}
+
+.navbar-nav>li:nth-child(3)>a { padding-bottom: 3px;}
+
+.navbar-nav>li:nth-child(1)>a {padding-top: 3px;}
